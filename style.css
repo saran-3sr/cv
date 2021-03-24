@@ -1,0 +1,27 @@
+body{
+      background-color: #f6f6f6;
+    }
+    hr{
+      border-style: dotted none none;
+      background-color:white;
+      color: gray;
+      width: 5%;
+      border-width: 5px;
+    }
+    h1{
+      color: #08d9d6;
+      font-family: monospace
+      align:center;
+    }
+    h3{
+      color:#08d9d6;
+      text-align: center;
+    }
+    table{
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      }
+    ol{
+      margin-left: 45%;
+    }
